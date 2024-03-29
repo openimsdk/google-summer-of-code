@@ -1,6 +1,6 @@
 # google-summer-of-code
 
-[![Google Summer of Code 2017](https://github.com/Sing-Li/bbug/raw/master/images/gsoclogo.jpg)](https://developers.google.com/open-source/gsoc/)
+[![Google Summer of Code](https://github.com/Sing-Li/bbug/raw/master/images/gsoclogo.jpg)](https://developers.google.com/open-source/gsoc/)
 
 OpenIM is proud to be a mentoring organization in the [ Google Summer of Code ](https://summerofcode.withgoogle.com/) (GSoC) program. We are excited to have you join our community of contributors.
 
@@ -17,7 +17,4 @@ If you are looking for specific information for a particular Google Summer of Co
 
 | GSoC Season  |  Information |
 |-------|--------------|
-
-
-
 
